@@ -15,8 +15,7 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/sergio-hern%C3%A1n-rico-sierra-2a673713a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="https://www.xtopo.com.co"><img src="https://img.shields.io/badge/xtopo.com.co-0d1117?style=for-the-badge&logo=googlechrome&logoColor=f97316" alt="XTopo"></a>&nbsp;&nbsp;
-<a href="https://github.com/ErunanR/Xtopo"><img src="https://img.shields.io/badge/GitHub-Xtopo-0d1117?style=for-the-badge&logo=github&logoColor=f97316" alt="Repositorio XTopo"></a>
+<a href="https://www.xtopo.com.co"><img src="https://img.shields.io/badge/xtopo.com.co-0d1117?style=for-the-badge&logo=googlechrome&logoColor=f97316" alt="XTopo"></a>
 
 <br>
 
