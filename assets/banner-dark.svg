@@ -1,0 +1,35 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#f97316" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#f97316" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- curvas de nivel: topografía -->
+  <g fill="none" stroke="#f97316" stroke-width="1.4" opacity="0.5">
+    <path d="M -40 250 Q 180 190 380 250 T 800 240 T 1240 260"/>
+    <path d="M -40 210 Q 200 150 420 205 T 860 195 T 1240 210" opacity="0.75"/>
+    <path d="M -40 165 Q 220 110 460 160 T 900 150 T 1240 160" opacity="0.9"/>
+    <path d="M -40 118 Q 240 70 500 115 T 940 100 T 1240 110"/>
+  </g>
+  <g fill="none" stroke="#94a3b8" stroke-width="1" opacity="0.22">
+    <path d="M -40 290 Q 160 250 380 288 T 800 282 T 1240 292"/>
+    <path d="M -40 40 Q 260 -10 540 38 T 980 25 T 1240 35"/>
+  </g>
+
+  <rect x="0" y="126" width="1200" height="2" fill="url(#glow)"/>
+
+  <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="700"
+        font-size="46" fill="#f8fafc" letter-spacing="1">SERGIO HERNÁN RICO SIERRA</text>
+  <text x="600" y="192" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="600"
+        font-size="21" fill="#f97316" letter-spacing="4">INGENIERO TOPOGRÁFICO</text>
+  <text x="600" y="222" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="400"
+        font-size="15" fill="#94a3b8" letter-spacing="0.5">Topografía + IA · autor de XTopo / SurveyAI</text>
+</svg>
