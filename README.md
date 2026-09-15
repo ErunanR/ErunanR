@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/ErunanR">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=F97316&center=true&vCenter=true&width=760&lines=Ingeniero+Topogr%C3%A1fico;Construyendo+XTopo+%2F+SurveyAI;Topograf%C3%ADa+%2B+Inteligencia+Artificial" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=AI-native+Surveyor+%C2%B7+Geomatics+Engineer+%C2%B7+GIS+Technologist+%C2%B7+Product+Builder;Building+XTopo+%2F+SurveyAI;Geomatics+%2B+Artificial+Intelligence" alt="typing banner">
 </a>
 
 <br><br>
@@ -28,8 +28,14 @@
 
 ## Sobre mí
 
-Soy **Ingeniero Topográfico**, de Colombia 🇨🇴. Trabajo en el punto donde la topografía
-tradicional se encuentra con el software y la inteligencia artificial.
+Soy **Ingeniero Topográfico**, de Colombia 🇨🇴. Trabajo en el punto donde el levantamiento
+de campo, la geomática y el software se encuentran.
+
+Convierto procesos que un topógrafo hace a mano — cálculos GNSS, dibujo en AutoCAD, memorias
+de linderos, diseño geométrico de vías — en herramientas web que cualquier colega puede usar
+sin licencias costosas ni curva de aprendizaje. No veo la IA como una capa decorativa: la uso
+para leer normas técnicas, acelerar cálculos y quitarle al computador el trabajo repetitivo
+para que rinda más el tiempo de campo.
 
 - 🗺️ Construyo **[XTopo / SurveyAI](https://www.xtopo.com.co)**, una plataforma web gratuita
   con herramientas de topografía, geodesia y GNSS para el trabajo de campo y de oficina en
@@ -37,9 +43,29 @@ tradicional se encuentra con el software y la inteligencia artificial.
   vías, cálculos GNSS y más.
 - 🤖 La combino con **IA aplicada a la geomática**: asistentes que leen normas técnicas,
   automatizan cálculos y aceleran el trabajo de campo a oficina.
-- 🎓 Nace como mi trabajo de grado, y hoy es una herramienta que uso — y que otros
-  topógrafos ya están usando — en obra real.
 - 💬 Escríbeme si te interesa la topografía digital, el GNSS/PPP o construir producto con IA.
+
+<br>
+
+<div align="center">
+
+## Qué construyo
+
+</div>
+
+- Herramientas web de topografía y geodesia que reemplazan procesos manuales de oficina y campo.
+- Motores determinísticos de cálculo (GNSS, PPP, diseño geométrico de vías) que trabajan junto
+  a la IA cuando la precisión no puede quedar a criterio de un modelo.
+- Un editor propio de planos DWG/DXF: lee, edita y guarda archivos reales en el navegador, sin
+  depender de AutoCAD.
+- Un asistente de IA que responde con base en las normas técnicas del sector (INVIAS, EAAB,
+  catastro) en vez de improvisar.
+- Procesamiento de nubes de puntos y modelos 3D — dron, LiDAR, fotogrametría — directamente en
+  el navegador.
+- Flujos de extracción, cálculo y generación documental para memorias, informes y reportes
+  técnicos.
+- Producto gratuito y accesible, pensado para que cualquier topógrafo en Colombia lo use sin
+  licencias costosas.
 
 <br>
 
