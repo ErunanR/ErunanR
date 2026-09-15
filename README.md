@@ -89,7 +89,7 @@ de campo.
 
 <div align="center">
 
-## Proyecto destacado
+## Proyectos destacados
 
 </div>
 
@@ -103,12 +103,27 @@ editor propio de DWG/DXF (lectura, edición y guardado en el navegador, sin Auto
 visor de nubes de puntos, diseño geométrico de vías, memorias de linderos y un asistente
 de IA que responde con base en las normas técnicas del sector.
 
+**Rol:** creador y desarrollador único.
+
 [![Sitio en producción](https://img.shields.io/badge/🌐_xtopo.com.co-en%20producción-f97316?style=flat-square)](https://www.xtopo.com.co)
 [![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+
+</td></tr>
+<tr><td>
+
+### 🛡️ [Seguros y Asistencias Colsubsidio · Guardi](https://seguroscolsubsidio.lat)
+
+Plataforma conversacional de seguros para Colsubsidio: perfila al usuario, recomienda,
+cotiza y acompaña el cierre por chat, voz, WhatsApp y contacto proactivo, con un panel
+interno de seguimiento. Trabajo de equipo (5 personas).
+
+**Rol:** Frontend Developer & UX/UI.
+
+[![Ver la app](https://img.shields.io/badge/Ver_la_app-seguroscolsubsidio.lat-0067b1?style=flat-square)](https://seguroscolsubsidio.lat)
 
 </td></tr>
 </table>
