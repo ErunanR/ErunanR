@@ -27,22 +27,31 @@
 
 ## Sobre mí
 
-Soy **Ingeniero Topográfico**, de Colombia 🇨🇴. Trabajo en el punto donde el levantamiento
-de campo, la geomática y el software se encuentran.
+Topógrafo profesional de Colombia 🇨🇴, con cerca de 10 años coordinando comisiones
+topográficas y ejecutando obra civil: puentes, redes húmedas de gran diámetro, redes
+secas, vías y urbanismo. Mi experiencia pasa por movimiento de tierras, asfalto,
+centros comerciales, señalización vial, planes de manejo de tránsito (PMT),
+instalación de redes sin zanja (pipe jacking) y planos récord bajo la normativa de
+entidades como el IDU. Piloto certificado de aeronaves no tripuladas (RPAS/drones)
+según la RAC 100 de la Aerocivil, y actualmente cursando Ingeniería Topográfica.
 
-Convierto procesos que un topógrafo hace a mano — cálculos GNSS, dibujo en AutoCAD, memorias
-de linderos, diseño geométrico de vías — en herramientas web que cualquier colega puede usar
-sin licencias costosas ni curva de aprendizaje. No veo la IA como una capa decorativa: la uso
-para leer normas técnicas, acelerar cálculos y quitarle al computador el trabajo repetitivo
-para que rinda más el tiempo de campo.
+Hoy coordino topografía en proyectos de movilidad en Bogotá (Termotécnica
+Coindustrial); antes lo hice en Conconcreto (IDU 349 — Transmilenio, Av. Congreso
+Eucarístico) y Estyma S.A., además de trabajar de forma independiente en BIM y drones
+para infraestructura.
 
-- 🗺️ Construyo **[XTopo / SurveyAI](https://www.xtopo.com.co)**, una plataforma web gratuita
-  con herramientas de topografía, geodesia y GNSS para el trabajo de campo y de oficina en
-  Colombia: procesamiento PPP, editor DWG/DXF propio, nubes de puntos, diseño geométrico de
-  vías, cálculos GNSS y más.
-- 🤖 La combino con **IA aplicada a la geomática**: asistentes que leen normas técnicas,
-  automatizan cálculos y aceleran el trabajo de campo a oficina.
-- 💬 Escríbeme si te interesa la topografía digital, el GNSS/PPP o construir producto con IA.
+Con esa experiencia de campo construyo **[XTopo / SurveyAI](https://www.xtopo.com.co)**:
+convierto procesos que antes hacía a mano — cálculos GNSS, dibujo en AutoCAD, memorias
+de linderos, procesamiento de orto mosaicos, diseño geométrico de vías — en
+herramientas web gratuitas que cualquier colega puede usar sin licencias costosas.
+No veo la IA como una capa decorativa: la uso para leer normas técnicas, acelerar
+cálculos y quitarle al computador el trabajo repetitivo para que rinda más el tiempo
+de campo.
+
+- 🚁 Piloto RPAS certificado (RAC 100): dron, fotogrametría y orto mosaicos.
+- 🏗️ ~10 años en obra civil: puentes, redes húmedas y secas, vías, urbanismo, IDU.
+- 🤖 Combino esa experiencia con IA aplicada a la geomática en XTopo / SurveyAI.
+- 💬 Escríbeme si te interesa la topografía digital, drones o construir producto con IA.
 
 <br>
 
